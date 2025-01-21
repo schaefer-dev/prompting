@@ -12,9 +12,6 @@ DO NOT STOP WORKING until you are completely done with all steps that are requir
 ### analyze_error
 Start by writing 3 reasoning paragraphs analyzing what the error might be. DO NOT JUMP TO CONCLUSIONS.
 
-### start_uncertain
-you should start the reasoning paragraph with lots of uncertainty and slowly gain confidence as you think about the item more and more.
-
 ### summarize_context
 before we proceed, I need you to give me a summary of the current state of the project.
 Format this as 3 concise paragraphs, in which you describe what we just did, what did not work, which files were updated/created, what mistakes to avoid, any other key insights/lessons that we have learned, what problems/errors we are currently facing, etc. Please also add anything else an experienced programmer might need to work productively on this project.
